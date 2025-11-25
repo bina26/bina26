@@ -23,6 +23,9 @@ I'm a 2 year CSE undergrad Student in Bengaluru.
 
 ### 🚀 My Projects
 
+* **Personal Portfolio** - https://github.com/bina26/bina26.github.io.git
+   * A fully responsive personal portfolio featuring a dark mode toggle, scroll animations, and mobile-first architecture built with HTML, CSS, and JavaScript.
+
 * **Amazon Clone** - https://github.com/bina26/Amazon_Clone.git
     * A static clone of the Amazon e-commerce homepage built using pure HTML and CSS.
 
