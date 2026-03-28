@@ -10,7 +10,7 @@ I'm a 2 year CSE undergrad Student in Bengaluru.
 * 🔭 I’m currently building **EcoQuest - A Real-time Eco-Challenge Platform**.
 * 💬 Ask me about **Basic C, C++ & Python**.
 * 📫 How to reach me: **upadhyayabinayak@gmail.com**
-* 📄 My LinkedIn: **https://www.linkedin.com/in/binayak-upadhyaya-587993324/**
+* 📄 My LinkedIn: **www.linkedin.com/in/binayak-codes**
 
 ---
 
