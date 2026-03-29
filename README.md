@@ -1,6 +1,6 @@
 ### Hi there, I'm Binayak Upadhyaya! 👋
 
-I'm a 2 year CSE undergrad Student in Bengaluru.
+I'm a 2nd year CSE undergrad Student in Bengaluru.
 
 ---
 
@@ -23,11 +23,11 @@ I'm a 2 year CSE undergrad Student in Bengaluru.
 
 ### 🚀 My Projects
 
-* **Personal Portfolio** - https://github.com/bina26/bina26.github.io.git
+* **Personal Portfolio** - https://github.com/bina26/bina26.github.io
    * A fully responsive personal portfolio featuring a dark mode toggle, scroll animations, and mobile-first architecture built with HTML, CSS, and JavaScript.
 
-* **Amazon Clone** - https://github.com/bina26/Amazon_Clone.git
+* **Amazon Clone** - https://github.com/bina26/Amazon_Clone
     * A static clone of the Amazon e-commerce homepage built using pure HTML and CSS.
 
-* **Login Page** - https://github.com/bina26/Login.git
+* **Login Page** - https://github.com/bina26/Login
     * A simple user registration form (HTML/CSS/JS) that captures input and displays it in an alert.
